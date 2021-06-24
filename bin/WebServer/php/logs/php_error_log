@@ -1,0 +1,187 @@
+[15-Oct-2017 05:50:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 05:50:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 05:50:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 05:50:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:03:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$gserver' (T_VARIABLE) in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanJang.php on line 9
+[15-Oct-2017 08:23:13 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:17 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:17 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:18 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:18 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:18 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:18 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:19 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:20 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:20 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:25 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:25 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:25 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:27 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:27 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:27 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:28 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:29 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:29 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:29 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:29 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:29 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:29 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:29 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:31 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:31 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:31 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:31 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:31 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:31 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:31 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:31 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:32 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:34 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:34 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:34 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:34 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:34 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:34 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:35 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:35 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:23:35 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:01 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:01 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:01 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:01 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:01 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:01 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:01 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:01 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:01 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:02 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:02 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:02 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:02 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:02 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:02 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:02 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:02 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:02 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:04 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:04 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:04 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:04 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:04 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:04 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:04 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:04 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:04 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:07 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:07 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:07 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:07 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:07 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:07 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:07 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:07 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:24:07 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
+[15-Oct-2017 08:28:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:28:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:28:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:28:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:33:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:33:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:33:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:33:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:34:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:34:42 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:34:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:34:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:40:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:40:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:41:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:41:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:42:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:42:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:42:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:44:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:44:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:44:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 08:44:24 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[15-Oct-2017 11:05:13 Europe/Berlin] PHP Fatal error:  Call to a member function format() on a non-object in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isClanMember.php on line 41
+[15-Oct-2017 11:41:41 Europe/Berlin] PHP Fatal error:  Call to a member function format() on a non-object in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isClanMember.php on line 41
+[17-Oct-2017 14:24:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[17-Oct-2017 14:24:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[17-Oct-2017 14:24:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[17-Oct-2017 14:24:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[17-Oct-2017 14:35:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[17-Oct-2017 14:35:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[17-Oct-2017 14:35:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[17-Oct-2017 14:35:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[19-Oct-2017 18:21:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[19-Oct-2017 18:21:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[19-Oct-2017 18:21:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[19-Oct-2017 18:21:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[19-Oct-2017 22:58:19 Europe/Berlin] PHP Notice:  Undefined variable: sdate in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\Clan\claninsert.php on line 118
+[19-Oct-2017 22:59:11 Europe/Berlin] PHP Notice:  Undefined variable: sdate in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\Clan\claninsert.php on line 118
+[20-Oct-2017 16:20:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[20-Oct-2017 16:20:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[20-Oct-2017 16:20:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_pdo_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[20-Oct-2017 16:20:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\php\ext\php_sqlsrv_55_nts.dll' - Das angegebene Modul wurde nicht gefunden.
+ in Unknown on line 0
+[20-Oct-2017 19:03:57 Europe/Berlin] PHP Fatal error:  Call to a member function format() on a non-object in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isClanMember.php on line 41
+[20-Oct-2017 19:19:04 Europe/Berlin] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isClanMember.php on line 44
+[20-Oct-2017 21:30:50 Europe/Berlin] PHP Warning:  sqlsrv_num_rows() expects parameter 1 to be resource, boolean given in D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\htdocs\clanfiles\ServerMain\isCheckClanNum.php on line 14
