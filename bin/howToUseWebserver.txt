@@ -1,0 +1,4 @@
+1. use tool like grepWin for searching all paths in webserver directory.
+2. search for "D:\MyProjects\GameDev\Pristontale\PublicSource\bin\WebServer\"
+3. open all occurence with editor like notpad++ and replace the line above with the path of your webserver directory.
+4. start webserver webserver/xampp-control.exe
